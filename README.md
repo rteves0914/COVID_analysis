@@ -7,7 +7,7 @@ The data is pulled in as a csv from the website data.ca.gov, then csvs are conve
 We breakdown the COVID-19 statistics in California by looking at 4 main topics:
 Cases and deaths by gender
 
-![](Images/Latest Positives %.png)
+![](Images/Latest%20Positives%20%.png)
 ![](Images/Latest Death %.png)
 
 Cases and deaths by county
