@@ -7,8 +7,8 @@ The data is pulled in as a csv from the website data.ca.gov, then csvs are conve
 We breakdown the COVID-19 statistics in California by looking at 4 main topics:
 Cases and deaths by gender
 
-![](Images/Latest%20Positives%20%.png)
-![](Images/Latest Death %.png)
+![](Images/Latest_Positives_%.png)
+![](Images/Latest_Death_%.png)
 
 Cases and deaths by county
 
@@ -17,8 +17,8 @@ Cases and deaths by county
 
 Cases and deaths by ethnicity
 
-![](Images/California Coronavirus Cases By Ethnicity.svg)
-![](Images/California Coronavirus Deaths By Ethnicity.svg)
+![](Images/California_Coronavirus_Cases_By_Ethnicity.svg)
+![](Images/California_Coronavirus_Deaths_By_Ethnicity.svg)
 
 Cases and deaths age
 
