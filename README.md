@@ -18,7 +18,7 @@ Cases and deaths by county
 Cases and deaths by ethnicity
 
 ![](Images/California_Coronavirus_Cases_By_Ethnicity.svg)
-![](Images/California_Coronavirus_Deaths_By_Ethnicity.svg)
+![](Images/California_Coronavirus_Deaths_by_Ethnicity.svg)
 
 Cases and deaths age
 
