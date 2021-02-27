@@ -8,8 +8,8 @@ We breakdown the COVID-19 statistics in California by looking at 4 main topics:
 
 Cases and deaths by gender
 
-![](Images/Last_Positives_%.png)
-![](Images/Latest_Death_%.png)
+![](Images/Last_Positives_pct.png)
+![](Images/Latest_Death_pct.png)
 
 Cases and deaths by county
 
